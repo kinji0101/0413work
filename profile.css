@@ -1,0 +1,91 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #39a1a1;
+}
+
+.area1 {
+  display: flex;
+  height: 20vw;
+  width: 100%;
+  justify-content: space-between;
+}
+.area1 .card {
+  background-color: rgb(93, 93, 116);
+}
+.area1 .card img {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 10%;
+}
+.area1 .card p {
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+}
+
+.area2 {
+  margin-left: 80px;
+  justify-content: flex-start;
+}
+
+.area3 {
+  border-top: 5px solid black;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.area3 h2 {
+  margin-left: 50px;
+}
+.area3 .education {
+  margin-top: 80px;
+  margin-left: 45px;
+}
+
+.area4 {
+  border-top: 5px solid black;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.area4 h2 {
+  margin-left: 50px;
+}
+
+.area5 {
+  width: 100%;
+  padding: 8px;
+  margin-top: 80px;
+  background-color: rgb(93, 93, 116);
+  height: 30vw;
+}
+.area5 .card2 {
+  border-top: 5px solid black;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.area5 h1 {
+  text-align: center;
+  color: white;
+}
+.area5 h2 {
+  text-align: center;
+  color: white;
+}
+
+.area6 {
+  margin-left: 80px;
+  justify-content: flex-start;
+}
+
+.area7 {
+  border-top: 5px solid black;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}/*# sourceMappingURL=profile.css.map */
