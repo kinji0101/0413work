@@ -20,6 +20,7 @@ body {
   align-items: center;
   justify-content: center;
   width: 10%;
+  border-radius: 50%;
 }
 .area1 .card p {
   text-align: center;
