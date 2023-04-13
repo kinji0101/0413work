@@ -89,4 +89,24 @@ body {
   margin-top: 20px;
   margin-left: 30px;
   margin-right: 30px;
+}
+.area7 .ball1 {
+  margin-left: 15px;
+}
+.area7 h3 {
+  margin-left: 50px;
+}
+.area7 .area8 {
+  line-height: 40px;
+}
+
+.area8 .ball2 {
+  margin-left: 40px;
+}
+.area8 h3 {
+  margin-left: 70px;
+}
+.area8 .area9 {
+  margin-left: 20px;
+  line-height: 40px;
 }/*# sourceMappingURL=profile.css.map */
